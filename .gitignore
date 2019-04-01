@@ -104,4 +104,4 @@ venv.bak/
 .mypy_cache/
 
 # project settings
-.logins.json
+logins.json
