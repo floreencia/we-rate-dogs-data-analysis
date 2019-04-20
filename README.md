@@ -5,6 +5,10 @@ Analysing the WeRateDogs twitter account. Practising data wrangling and analysis
 ### Install python3 and packages using conda package manager
     
     $ conda install pandas numpy python=3.6 matplotlib seaborn
+
+### Install nbextensions and wordcloud package
+ 
+    $ conda install -c conda-forge jupyter_contrib_nbextensions wordcloud
     
  ### Install further packages using pip package manager
  
@@ -31,3 +35,7 @@ Launch with:
 ### Running in a remote installation
 
 You need some configuration before starting Jupyter notebook remotely. See [Running a notebook server](http://jupyter-notebook.readthedocs.io/en/stable/public_server.html).
+
+## Twitter API
+
+Apply for a Twitter API account and provide your own login information , before running the API request.
