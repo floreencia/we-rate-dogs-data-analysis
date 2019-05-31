@@ -1,8 +1,9 @@
 # we-rate-dogs-data-analysis
-Analysing the WeRateDogs twitter account. Practising data wrangling and analysis. 
+Analysing the WeRateDogs Twitter account. Practising data wrangling and analysis. 
 
 ## Installation
-### Install python3 and packages using conda package manager
+
+### Install Python 3 and packages using conda package manager
     
     $ conda install pandas numpy python=3.6 matplotlib seaborn
 
@@ -15,6 +16,7 @@ Analysing the WeRateDogs twitter account. Practising data wrangling and analysis
     $ pip install requests tweepy jsonschema
     
 ### Install Jupyter Notebook
+
 You can find the installation documentation for the
 [Jupyter platform, on ReadTheDocs](https://jupyter.readthedocs.io/en/latest/install.html).
 The documentation for advanced usage of Jupyter notebook can be found
@@ -26,6 +28,7 @@ For a local installation, make sure you have
     $ pip install notebook
 
 ## Usage - Running Jupyter notebook
+
 ### Running in a local installation
 
 Launch with:
@@ -38,4 +41,4 @@ You need some configuration before starting Jupyter notebook remotely. See [Runn
 
 ## Twitter API
 
-Apply for a Twitter API account and provide your own login information , before running the API request.
+Apply for a Twitter API account and provide your own login information, before running the API request.
